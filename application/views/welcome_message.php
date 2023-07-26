@@ -103,8 +103,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
 		</div>
 
 		<div>
-			<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, fugiat minus ex quas dolor eveniet culpa eligendi deleniti sunt velit veritatis doloremque at nisi sit ab consequatur, distinctio, ducimus quod.</h1>
+			<h1>Lorem ipsum dolor sit amet.</h1>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos, nesciunt eaque sed velit deleniti natus numquam ex necessitatibus rem minus harum voluptas corrupti unde. Illo minus quo ipsum ut vero quia non eos beatae nulla. Distinctio rem veniam nihil repellat molestiae consequuntur quos quae culpa, ea maxime, quis voluptatibus accusamus! Molestias dignissimos quis ea totam dolorem porro quasi, natus consequuntur saepe in aspernatur placeat, nam non beatae. Omnis magni ipsa veniam minus, quam eius iste harum ratione similique laudantium commodi tempora, ullam dolore delectus quia placeat praesentium voluptatum dolorem repudiandae iusto maxime excepturi? Magnam obcaecati, quam officia error adipisci sint, dolor atque ducimus maiores repellat corrupti sunt labore ratione, porro asperiores eaque provident? Necessitatibus non laborum, quia adipisci aspernatur aperiam temporibus laboriosam animi quasi saepe fuga aliquam cumque. Doloremque dolorum qui quas minima deserunt magni neque animi quos, doloribus cumque rerum officia pariatur in error exercitationem necessitatibus dolor porro cupiditate quibusdam! Id neque quaerat nam sit ea quis praesentium quae, amet temporibus distinctio dolores culpa natus, et eligendi dignissimos est officiis voluptates pariatur cumque deleniti voluptatum consequuntur maxime architecto consectetur? Deserunt, necessitatibus voluptatem quo quidem ipsam modi culpa eum earum, architecto nobis asperiores ipsum molestiae commodi tempora hic ad enim?</p>
 		</div>
+
 
 		<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 	</div>
