@@ -102,6 +102,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
 			<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="userguide3/">User Guide</a>.</p>
 		</div>
 
+		<div>
+			<h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, fugiat minus ex quas dolor eveniet culpa eligendi deleniti sunt velit veritatis doloremque at nisi sit ab consequatur, distinctio, ducimus quod.</h1>
+		</div>
+
 		<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 	</div>
 
